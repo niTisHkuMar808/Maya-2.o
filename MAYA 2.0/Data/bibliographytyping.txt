@@ -1,0 +1,31 @@
+As a content writer, I can assist you with typing a bibliography. Please provide me with the details of the bibliography you need, such as:
+
+1. The citation style (e.g. MLA, APA, Chicago, Harvard)
+2. The number of sources you need to cite
+3. The type of sources (e.g. books, articles, websites, journals)
+4. Any specific formatting or organization requirements
+
+Here is an example of a bibliography in MLA format:
+
+**Book:**
+
+Lastname, Firstname. Title of Book. City: Publisher, Year of Publication. Print.
+
+Example:
+Smith, John. The History of Computers. New York: Random House, 2010. Print.
+
+**Journal Article:**
+
+Lastname, Firstname. "Title of Article." Title of Journal Volume, Issue (Year of Publication): Page Numbers. Print.
+
+Example:
+Johnson, Mary. "The Impact of Social Media on Society." Journal of Communication Studies 20, no. 3 (2015): 12-20. Print.
+
+**Website:**
+
+Lastname, Firstname. "Title of Website." Title of Website, Date of Publication, URL. Accessed Date of Access.
+
+Example:
+Williams, David. "The Benefits of Meditation." Mindfulness.com, 10 Jan. 2020, www.mindfulness.com/benefits-of-meditation. Accessed 15 Jan. 2020.
+
+Let me know if you have any specific requests or if you'd like me to type a bibliography for you!
