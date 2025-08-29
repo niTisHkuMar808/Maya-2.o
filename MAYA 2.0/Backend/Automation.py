@@ -21,7 +21,7 @@ GroqAPIKey = env_vars.get("GROQ_API_KEY")
 
 user_agent = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36"
 
-client = Groq(api_key='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')
+client = Groq(api_key='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')
 
 professional_responses: list = [
     "Your satisfaction is my top priority; feel free to reach out if there's anything else I can help you with.",
@@ -237,3 +237,4 @@ if __name__ == "__main__":
             ]
         )
     )
+
